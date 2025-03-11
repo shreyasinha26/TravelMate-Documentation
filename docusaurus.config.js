@@ -78,15 +78,9 @@ const config = {
               label: 'Getting Started',
               to: 'docs/getting-started',
             },
-            {
-              label: ' Reference',
-              to: 'docs/info',
-            },
+           
             
-            {
-              label: 'Posts',
-              to: 'docs/post',
-            }
+           
           ],
         },
       
